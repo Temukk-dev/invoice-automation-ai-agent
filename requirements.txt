@@ -1,0 +1,5 @@
+pandas
+pymupdf
+pillow
+groq
+python-dateutil
