@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+
+# API keys and secrets
+kaggle.json
+secrets.json
+*.key
+*.pem
+*.token
+groq_api_key.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large/local files
+*.zip
+*.7z
+*.rar
